@@ -1,0 +1,11 @@
+C:\Users\Milo Trendel\Documents\GitHub\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Milo Trendel\Documents\GitHub\Tetris\bin\Debug\Tetris.exe
+C:\Users\Milo Trendel\Documents\GitHub\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Milo Trendel\Documents\GitHub\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\Milo Trendel\Documents\GitHub\Tetris\obj\Debug\Tetris.csproj.SuggestedBindingRedirects.cache
+C:\Users\Milo Trendel\Documents\GitHub\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Milo Trendel\Documents\GitHub\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Milo Trendel\Documents\GitHub\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Milo Trendel\Documents\GitHub\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Milo Trendel\Documents\GitHub\Tetris\obj\Debug\Tetris.exe
+C:\Users\Milo Trendel\Documents\GitHub\Tetris\obj\Debug\Tetris.pdb
